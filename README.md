@@ -1,0 +1,1 @@
+Practicing javascript using one of the projects on the Odin Project.
